@@ -1,0 +1,6 @@
+c:\users\komal sadiq\documents\visual studio 2012\Projects\vpClassAssigment1\vpClassAssigment1\bin\Debug\vpClassAssigment1.exe.config
+c:\users\komal sadiq\documents\visual studio 2012\Projects\vpClassAssigment1\vpClassAssigment1\bin\Debug\vpClassAssigment1.exe
+c:\users\komal sadiq\documents\visual studio 2012\Projects\vpClassAssigment1\vpClassAssigment1\bin\Debug\vpClassAssigment1.pdb
+c:\users\komal sadiq\documents\visual studio 2012\Projects\vpClassAssigment1\vpClassAssigment1\obj\Debug\vpClassAssigment1.csprojResolveAssemblyReference.cache
+c:\users\komal sadiq\documents\visual studio 2012\Projects\vpClassAssigment1\vpClassAssigment1\obj\Debug\vpClassAssigment1.exe
+c:\users\komal sadiq\documents\visual studio 2012\Projects\vpClassAssigment1\vpClassAssigment1\obj\Debug\vpClassAssigment1.pdb
