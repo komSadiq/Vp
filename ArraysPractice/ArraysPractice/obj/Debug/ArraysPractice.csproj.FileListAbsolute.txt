@@ -1,0 +1,6 @@
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe.config
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ArraysPractice\ArraysPractice\bin\Debug\ArraysPractice.pdb
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.csprojResolveAssemblyReference.cache
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ArraysPractice\ArraysPractice\obj\Debug\ArraysPractice.pdb

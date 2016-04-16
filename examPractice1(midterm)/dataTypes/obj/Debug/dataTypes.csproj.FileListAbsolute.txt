@@ -1,0 +1,6 @@
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\dataTypes\bin\Debug\dataTypes.exe.config
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\dataTypes\bin\Debug\dataTypes.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\dataTypes\bin\Debug\dataTypes.pdb
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\dataTypes\obj\Debug\dataTypes.csprojResolveAssemblyReference.cache
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\dataTypes\obj\Debug\dataTypes.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\dataTypes\obj\Debug\dataTypes.pdb

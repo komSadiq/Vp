@@ -1,0 +1,5 @@
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\examPractice1(midterm)\bin\Debug\examPractice1(midterm).exe.config
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\examPractice1(midterm)\bin\Debug\examPractice1(midterm).exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\examPractice1(midterm)\bin\Debug\examPractice1(midterm).pdb
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\examPractice1(midterm)\obj\Debug\examPractice1(midterm).exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\examPractice1(midterm)\examPractice1(midterm)\obj\Debug\examPractice1(midterm).pdb

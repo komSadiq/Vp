@@ -1,0 +1,6 @@
+c:\users\komal sadiq\documents\visual studio 2013\Projects\partial classes\partial classes\bin\Debug\partial classes.exe.config
+c:\users\komal sadiq\documents\visual studio 2013\Projects\partial classes\partial classes\bin\Debug\partial classes.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\partial classes\partial classes\bin\Debug\partial classes.pdb
+c:\users\komal sadiq\documents\visual studio 2013\Projects\partial classes\partial classes\obj\Debug\partial classes.csprojResolveAssemblyReference.cache
+c:\users\komal sadiq\documents\visual studio 2013\Projects\partial classes\partial classes\obj\Debug\partial classes.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\partial classes\partial classes\obj\Debug\partial classes.pdb

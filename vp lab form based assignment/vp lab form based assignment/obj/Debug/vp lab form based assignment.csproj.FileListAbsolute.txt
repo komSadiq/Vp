@@ -1,0 +1,4 @@
+C:\Users\Komal Sadiq\Documents\Visual Studio 2013\Projects\vp lab form based assignment\vp lab form based assignment\obj\Debug\vp_lab_assiment_form_base.Form1.resources
+C:\Users\Komal Sadiq\Documents\Visual Studio 2013\Projects\vp lab form based assignment\vp lab form based assignment\obj\Debug\vp_lab_form_based_assignment.Properties.Resources.resources
+C:\Users\Komal Sadiq\Documents\Visual Studio 2013\Projects\vp lab form based assignment\vp lab form based assignment\obj\Debug\vp lab form based assignment.csproj.GenerateResource.Cache
+C:\Users\Komal Sadiq\Documents\Visual Studio 2013\Projects\vp lab form based assignment\vp lab form based assignment\bin\Debug\vp lab form based assignment.exe.config

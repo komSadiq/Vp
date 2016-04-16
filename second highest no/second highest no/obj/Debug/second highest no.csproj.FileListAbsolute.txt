@@ -1,0 +1,6 @@
+c:\users\komal sadiq\documents\visual studio 2013\Projects\second highest no\second highest no\bin\Debug\second highest no.exe.config
+c:\users\komal sadiq\documents\visual studio 2013\Projects\second highest no\second highest no\bin\Debug\second highest no.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\second highest no\second highest no\bin\Debug\second highest no.pdb
+c:\users\komal sadiq\documents\visual studio 2013\Projects\second highest no\second highest no\obj\Debug\second highest no.csprojResolveAssemblyReference.cache
+c:\users\komal sadiq\documents\visual studio 2013\Projects\second highest no\second highest no\obj\Debug\second highest no.exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\second highest no\second highest no\obj\Debug\second highest no.pdb

@@ -1,0 +1,6 @@
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ExamPractice2(midterm)\ExamPractice2(midterm)\bin\Debug\ExamPractice2(midterm).exe.config
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ExamPractice2(midterm)\ExamPractice2(midterm)\bin\Debug\ExamPractice2(midterm).exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ExamPractice2(midterm)\ExamPractice2(midterm)\bin\Debug\ExamPractice2(midterm).pdb
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ExamPractice2(midterm)\ExamPractice2(midterm)\obj\Debug\ExamPractice2(midterm).csprojResolveAssemblyReference.cache
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ExamPractice2(midterm)\ExamPractice2(midterm)\obj\Debug\ExamPractice2(midterm).exe
+c:\users\komal sadiq\documents\visual studio 2013\Projects\ExamPractice2(midterm)\ExamPractice2(midterm)\obj\Debug\ExamPractice2(midterm).pdb

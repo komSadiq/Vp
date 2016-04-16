@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examPractice1(midterm)", "examPractice1(midterm)\examPractice1(midterm).csproj", "{0EBFD088-07D2-4166-B30B-22E74BEBA534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataTypes", "dataTypes\dataTypes.csproj", "{3421DCA8-BD5D-477B-985E-3DE4891C39D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EBFD088-07D2-4166-B30B-22E74BEBA534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBFD088-07D2-4166-B30B-22E74BEBA534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBFD088-07D2-4166-B30B-22E74BEBA534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBFD088-07D2-4166-B30B-22E74BEBA534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3421DCA8-BD5D-477B-985E-3DE4891C39D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3421DCA8-BD5D-477B-985E-3DE4891C39D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3421DCA8-BD5D-477B-985E-3DE4891C39D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3421DCA8-BD5D-477B-985E-3DE4891C39D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
