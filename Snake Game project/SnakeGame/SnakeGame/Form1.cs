@@ -17,16 +17,6 @@ namespace SnakeGame
             InitializeComponent();
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboSelectDificulty_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void rbFullScreen_CheckedChanged(object sender, EventArgs e)
         {
             if (rbCustomSize.Checked == true)
@@ -45,9 +35,12 @@ namespace SnakeGame
                 comboWidth.Visible = false;          }
         }
 
-       
-
-        
+        private void btnPlay_Click(object sender, EventArgs e)
+        {
+            Form Form2 = new Form();
+            Form2.Visible = true;
+            Form2.Activate();
+        }
       
     }
 }

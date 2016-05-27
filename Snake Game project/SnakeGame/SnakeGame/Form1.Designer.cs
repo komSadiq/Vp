@@ -88,6 +88,7 @@
             this.btnPlay.TabIndex = 4;
             this.btnPlay.Text = "Play";
             this.btnPlay.UseVisualStyleBackColor = true;
+            this.btnPlay.Click += new System.EventHandler(this.btnPlay_Click);
             // 
             // comboSelectPlayer
             // 
@@ -113,7 +114,7 @@
             this.comboSelectDificulty.Name = "comboSelectDificulty";
             this.comboSelectDificulty.Size = new System.Drawing.Size(121, 21);
             this.comboSelectDificulty.TabIndex = 6;
-            this.comboSelectDificulty.SelectedIndexChanged += new System.EventHandler(this.comboSelectDificulty_SelectedIndexChanged);
+            
             // 
             // lblHeight
             // 
@@ -123,7 +124,7 @@
             this.lblHeight.Size = new System.Drawing.Size(38, 13);
             this.lblHeight.TabIndex = 7;
             this.lblHeight.Text = "Height";
-            this.lblHeight.Click += new System.EventHandler(this.label5_Click);
+           
             // 
             // lblWidth
             // 

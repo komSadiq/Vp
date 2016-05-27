@@ -7,3 +7,4 @@ c:\users\komal sadiq\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\o
 c:\users\komal sadiq\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.Cache
 c:\users\komal sadiq\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
 c:\users\komal sadiq\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+C:\Users\Komal Sadiq\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form2.resources
